@@ -1,6 +1,6 @@
-# analise-dados-ecommerce
+# Analise-dados-ecommerce
 Repositório com análises de dados realizadas em Python (Pandas, NumPy, Matplotlibe Marchine Learning)
-Adiciona README.md com descrição do projeto
+
 # 📊 Projeto de Análise de Dados – E-commerce
 
 Este repositório contém o projeto que desenvolvi durante o curso de **Python para Análise de Dados**.  
