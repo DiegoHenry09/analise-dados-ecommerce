@@ -55,7 +55,7 @@ O objetivo foi aplicar conceitos de **ETL, análise exploratória, estatística 
 ---
 
 ## 🔹 Próximos Passos
-- Reaplicar esse pipeline em dados do setor **farmacêutico (Hypera Pharma)**.  
+- Reaplicar esse pipeline em dados do setor **farmacêutico**.  
 - Ampliar a análise com mais técnicas de **Machine Learning**.  
 - Desenvolver dashboards mais interativos em Power BI.  
 
